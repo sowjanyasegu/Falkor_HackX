@@ -2,10 +2,10 @@
 
 System that recommends diet plan based on human disease, genetic history and also can be used to maintain health profile. 
 
-By taking the health profile of a person, the diet plan an individual is recommended from our web app which is backed by ML model.
+By taking the health profile of a person, the diet plan of an individual is recommended from our web app which is backed by ML model.
 
 Technologies we used:
-Django
+Django,
 Data Science , ML , AI
 Bootsrap 
 
